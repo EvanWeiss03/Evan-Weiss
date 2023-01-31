@@ -166,7 +166,7 @@ nav, .scroll, .header {
 }
 
 .dark-theme #personal-logo {
-  filter: invert(0);
+  filter: invert(1);
 }
 
 .dark-theme section {
@@ -457,7 +457,6 @@ nav {
 }
 
 #personal-logo {
-  filter: invert(1);
   height: 50px;
   width: 50px;
 }
